@@ -5,3 +5,4 @@
 - 📫 How to reach me: https://www.linkedin.com/in/sueda-bilen-b4b365124/
 
 
+[![Sueda's GitHub stats](https://github-readme-stats.vercel.app/api?username=suedabilen&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
